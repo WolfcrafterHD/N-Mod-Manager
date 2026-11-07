@@ -1,11 +1,10 @@
-import java.awt.*;
-
 /*
     Lupinus
     orig. 01.11.2026
     This Script Manages and initializes everything concerning java.swing
     Frames and Windows.
  */
+import java.awt.*;
 public class Display {
     /***Attributes***/
     public static Display INSTANCE;
